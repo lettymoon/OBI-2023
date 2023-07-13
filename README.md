@@ -11,6 +11,6 @@ Repositório com exercícios de  treinamento e das fases científico do nível s
 ## Diretórios
 
 - [Treinamento](treinamento)
-  - [Neps Academy](neps-academy)
+  - [Neps Academy](/obi/treinamento/neps-academy/)
 - [Fase Teste](prova-teste)
 - [Fase 1](fase01)

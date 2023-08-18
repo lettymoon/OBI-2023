@@ -1,3 +1,5 @@
+//não finalizado
+
 #include <iostream>
 
 using namespace std;
